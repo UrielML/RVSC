@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/dragkoz/AndroidStudioProjects/RVSC/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="837fd600421ccc83c08113a1874b89f5fd058087">
+        <dex dex="/home/dragkoz/AndroidStudioProjects/RVSC/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_13dc6685de16ce1df104696313c99d0ac9087085/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dragkoz/AndroidStudioProjects/RVSC/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/dragkoz/AndroidStudioProjects/RVSC/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a1574dacd023f8ab4863268579fdf709faade3e5/classes.dex" />
+    </item>
+
+</items>
